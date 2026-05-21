@@ -20,7 +20,8 @@ wws-2024-impact-analysis/
 │
 ├── data/                 # Cleaned dataset used in Power BI
 ├── notebooks/            # Python notebooks for data creation & charts
-├── report/               # Dashboard and chart previews
+├── plots/                # Dashboard (raw vision)
+├── report/               # Result presentation
 └── README.md             # Project documentation
 
 Notebooks
