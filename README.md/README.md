@@ -1,13 +1,12 @@
 #WWS 2024 Impact Analysis – Apartment Portfolio (1500 units)
 
 ##Overview
-This project analyzes the impact of the transition from WWS 2022 to WWS 2024 on a fictitious portfolio of 1500 apartments. The dataset was created in Python, refined in Excel, and visualized in Power BI. The final result is a one page dashboard (NL/EN) showing rent development, point scoring, policy options, and risk indicators.
+This project analyzes the impact of the transition from WWS 2022 to WWS 2024 on a fictitious portfolio of 1500 apartments. The dataset was created in Python, refined in Excel, and visualized in Power BI. The final result is a one page dashboard (NL/EN) showing rent development, point scoring and risk indicators.
 
 ##Objectives
 •	Build a synthetic apartment portfolio for analysis
 •	Understand the financial and regulatory impact of WWS 2024
-•	Explore rent development and point scoring under different scenarios
-•	Provide a clear, visual summary for decision makers
+•	Explore rent development and point scoring
 
 ##Tools & Technologies
 •	Python (pandas, numpy, matplotlib)
@@ -29,15 +28,12 @@ wws-2024-impact-analysis/
 
 ##Dashboard
 The final dashboard (NL/EN) summarizes:
-•	Rent development under WWS 2024
-•	Point scoring (punten)
+•	Portfolio baseline
+•	Key metrics
 •	Energy label impact
-•	Policy scenarios
 •	Risk indicators
-(Dashboard link can be added here once published)
 
 ##Notes
-This repository contains the data creation and exploratory analysis. The full Power BI model, DAX measures, and scenario logic are available upon request.
+This repository contains the data creation and exploratory analysis.
 
-##Autor
-Stefan Kermann
+© 2026 [Stefan Kermann]. All rights reserved.
